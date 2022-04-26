@@ -1,10 +1,10 @@
-<h1> <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello! Nice to see you. </h1>
+<h1> <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a> Hello! Nice to see you. </h1>
 
 <p>
 Welcome to my page! <br/>
-  I'm <img src="https://cdn-icons.flaticon.com/png/512/3242/premium/3242257.png?token=exp=1650971701~hmac=26db91a6437883cb4337f72b6e708801" width="15"/> <b>ddorong, Frontend developer</b>. <br />
-  Currently, I'm living in <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="15"/> <b> Seoul, Republic of Korea</b>.<br />
-  I graduated from <img src="https://cdn-icons-png.flaticon.com/512/167/167707.png" width="15" /> <b>Kyungpook National University</b> with a master's degree.
+  I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  <b>ddorong, Frontend developer</b>. <br />
+  Currently, I'm living in <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="20"/> <b> Seoul, Republic of Korea</b>.<br />
+  I graduated from <img src="https://cdn-icons-png.flaticon.com/512/167/167707.png" width="20" /> <b>Kyungpook National University</b> with a master's degree.
 </p>
 
 
