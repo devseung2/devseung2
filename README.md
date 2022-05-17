@@ -31,7 +31,7 @@ Welcome to my page! <br/>
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-F7B93E?style=flat-square&logo=Notion&logoColor=white" />
 </p>
 
-<div >
+<!-- <div >
   <h3>Languages used in my repos </h3>
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devseung2&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
@@ -39,7 +39,7 @@ Welcome to my page! <br/>
 
 <br/>
 
-![ddorong's github stats](https://github-readme-stats.vercel.app/api?username=devseung2&show_icons=true&theme=dracula&hide=stars,issues)
+![ddorong's github stats](https://github-readme-stats.vercel.app/api?username=devseung2&show_icons=true&theme=dracula&hide=stars,issues) -->
 
 <br />
 
