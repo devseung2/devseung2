@@ -2,7 +2,7 @@
 
 <p>
 Welcome to my page! <br/>
-  I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  <b>ddorong, Frontend developer</b>. <br />
+  I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  <b>ddorong, Frontend Engineer</b>. <br />
   Currently, I'm living in <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="20"/> <b> Seoul, Republic of Korea</b>.<br />
   I graduated from <img src="https://cdn-icons-png.flaticon.com/512/167/167707.png" width="20" /> <b>Kyungpook National University</b> with a master's degree.
 </p>
